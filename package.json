@@ -4,7 +4,8 @@
   "description": "<header>",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test2": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
